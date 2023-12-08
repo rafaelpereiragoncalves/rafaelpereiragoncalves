@@ -15,11 +15,9 @@ Atualmente, estou mergulhado em projetos de desenvolvimento de software, buscand
 - Docker, SqlServer, MySql, PgSql
 - Jira, Trello, Miro
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?rafaelpereiragoncalves&show_icons=true&count_private=true&hide=contribs)
-
 ## Contato
 
 - 📧 Email: rrafael1998@gmail.com
-- 💬 LinkedIn: [Rafael Pereira Gonçalves Silva]([link-do-seu-linkedin](https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)
+- 💬 LinkedIn: [Rafael Gonçalves]([link-do-seu-linkedin](https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)
 
 ![Repositórios](https://img.shields.io/github/repos/rafaelpereiragoncalves?style=social)
