@@ -13,7 +13,7 @@ Vamos construir algo incrível juntos!!! 🧑🏽‍💻
 - Git, Github e Bitbucket.
 - Aprendendo React Js, Node Js e JavaScript.
 - Docker, SqlServer, MySql, PgSql.
-- Para planejamento/gestão e acompanhamento de projetos profissionais e pessoais utilizo Jira, Trello, Miro, Figma, Draw.io.
+- Para planejamento/gestão e acompanhamento de projetos profissionais e pessoais estou utilizando Jira, Trello, Miro, Figma, Draw.io.
 
 ## Contato 📞
 
