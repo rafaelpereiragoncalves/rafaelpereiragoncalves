@@ -9,7 +9,7 @@ Vamos construir algo incrível juntos!!! 🧑🏽‍💻
 ## Habilidades 🎯
 
 - Desenvolvimento Web
-- Maior experiencia profissional utilizando Java e C#.
+- Experiência profissional maior utilizando Java e C#.
 - Git, Github e Bitbucket.
 - Aprendendo React Js, Node Js e JavaScript.
 - Docker, SqlServer, MySql, PgSql.
