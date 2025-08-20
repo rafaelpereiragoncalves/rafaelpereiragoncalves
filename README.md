@@ -1,18 +1,19 @@
-# 👨🏻‍💻 [Rafael Gonçalves](https://rafael-goncalves-portfolio.vercel.app/)
+# [Rafael Gonçalves](https://rafael-goncalves-portfolio.vercel.app/)
 
 ### `<dev />`
 
-Desenvolvedor backend com experiência em **Java/Kotlin, Spring e .NET/C#**, explorando também o ecossistema **JavaScript (Next.js, React)** em projetos pessoais. Sempre em busca de novos desafios e aprendizados.
+> Desenvolvedor backend com experiência em **Java/Kotlin, Spring e .NET/C#**, explorando também o ecossistema **JavaScript (Next.js, React)** em projetos pessoais. Sempre em busca de novos desafios e aprendizados.
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelpereiragoncalves&show_icons=true&theme=radical" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiragoncalves&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)  
-- 🌐 [Portfólio](https://rafael-goncalves-portfolio.vercel.app/)
+> [LinkedIn](https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)  👈🏻
+
+> [Portfólio](https://rafael-goncalves-portfolio.vercel.app/) 👈🏻
 
 ---
 
