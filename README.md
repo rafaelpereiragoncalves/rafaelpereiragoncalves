@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiragoncalves&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
-> [LinkedIn](https://www.linkedin.com/in/rafael-gon%C3%A7alves-46bab412b/)  👈🏻
-
-> [Portfólio](https://rafael-goncalves-portfolio.vercel.app/) 👈🏻
-
 ---
 
 <p align="center">
