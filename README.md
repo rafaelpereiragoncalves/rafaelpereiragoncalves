@@ -1,9 +1,10 @@
-# 👨‍💻 Rafael Gonçalves
+# 👩🏻‍💻 Rafael Gonçalves
 
 ### Desenvolvedor FullStack
 
-Olá! Meu nome é **Rafael Gonçalves**, sou apaixonado por tecnologia e atualmente trabalho como **Desenvolvedor Backend**, explorando o ecossistema **JavaScript (Next.js, ReactJs e React Native)**.  
-Tenho experiência também com **Java/Kotlin, Spring e .Net/C#**. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e compartilhar conhecimento.
+Olá! Meu nome é Rafael Gonçalves, sou apaixonado por tecnologia e atuo como Desenvolvedor Backend, com experiência em Java/Kotlin, Spring e .NET/C#.
+Além disso, tenho explorado o ecossistema JavaScript (Next.js, ReactJs e React Native) em projetos pessoais, com o objetivo de expandir meus conhecimentos e desenvolver soluções completas.
+Estou sempre em busca de novos desafios e aprendizados, aplicando boas práticas e compartilhando conhecimento ao longo da jornada.
 
 ---
 
@@ -35,11 +36,11 @@ Tenho experiência também com **Java/Kotlin, Spring e .Net/C#**. Estou sempre e
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelpereiragoncalves&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiragoncalves&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 ---
