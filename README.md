@@ -8,14 +8,6 @@ Estou sempre em busca de novos desafios e aprendizados, aplicando boas práticas
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Estudando **Padrões de Projetos** e aprimorando meu inglês para novas oportunidades.  
-- 💼 Atualmente atuando em integrações financeiras globais e sistemas escaláveis.  
-- 📌 Interesses: arquitetura de software, boas práticas de código e automação de processos.  
-- 🎯 Objetivo: construir soluções eficientes e acessíveis, sempre pensando em **escalabilidade** e **usabilidade**.  
-
----
-
 ## 🔧 Linguagens e Tecnologias
 
 <p align="left">
