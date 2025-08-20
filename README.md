@@ -38,11 +38,11 @@ Estou sempre em busca de novos desafios e aprendizados, aplicando boas práticas
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-goncalves-dev&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelpereiragoncalves&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-goncalves-dev&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereiragoncalves&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 ---
